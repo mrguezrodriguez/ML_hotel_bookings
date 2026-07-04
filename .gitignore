@@ -2,9 +2,15 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.ipynb_checkpoints/
+*.pyc
 
 # C extensions
 *.so
+*.csv
+*.xlsx
+*.parquet
+
 
 # Distribution / packaging
 .Python
@@ -216,3 +222,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# SRC/data
+
+src/data_sample/
