@@ -150,7 +150,7 @@ pip install -r requirements.txt
 ### Descarga de datos
 
 ```bash
-python download_data.py
+python src/data_sample/download_data.py
 ```
 
 ### Ejecución
